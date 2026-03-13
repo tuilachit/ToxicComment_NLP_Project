@@ -188,5 +188,5 @@ This project is for educational and portfolio purposes.
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Luke Nguyen 
 **Repository**: https://github.com/tuilachit/ToxicComment_NLP_Project
